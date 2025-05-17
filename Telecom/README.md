@@ -1,5 +1,5 @@
 # Предсказание оттока клиентов для телекома
-[HTML]https://github.com/lil-scripter/Practicum_projects/blob/dac0298e2fe8568826dff819bd4c9536866d2994/Telecom/GP_telecom.html [IPYBN]https://github.com/lil-scripter/Practicum_projects/blob/dac0298e2fe8568826dff819bd4c9536866d2994/Telecom/GP_telecom.ipynb
+[HTML](https://github.com/lil-scripter/Practicum_projects/blob/dac0298e2fe8568826dff819bd4c9536866d2994/Telecom/GP_telecom.html) [IPYBN](https://github.com/lil-scripter/Practicum_projects/blob/dac0298e2fe8568826dff819bd4c9536866d2994/Telecom/GP_telecom.ipynb)
 
 ## Описание проекта
 Необходимо обучить модель, которая будет выявлять клиентов, которые планируют отказаться от услуг связи.
