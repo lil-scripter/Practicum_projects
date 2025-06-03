@@ -1,20 +1,35 @@
 # Предсказание оттока клиентов для телекома
-[HTML](https://github.com/lil-scripter/Practicum_projects/blob/dac0298e2fe8568826dff819bd4c9536866d2994/Telecom/GP_telecom.html) [IPYNB](https://github.com/lil-scripter/Practicum_projects/blob/dac0298e2fe8568826dff819bd4c9536866d2994/Telecom/GP_telecom.ipynb)
+[HTML](https://github.com/lil-scripter/Practicum_projects/blob/dac0298e2fe8568826dff819bd4c9536866d2994/Telecom/GP_telecom.html) |
+[IPYNB](https://github.com/lil-scripter/Practicum_projects/blob/dac0298e2fe8568826dff819bd4c9536866d2994/Telecom/GP_telecom.ipynb)
 
 ## Описание проекта
-Необходимо обучить модель, которая будет выявлять клиентов, которые планируют отказаться от услуг связи.
+Оператор связи хочет бороться с оттоком клиентов, предоставляя персональнные условия и промокоды тем, кто планирует разорвать договор оказания услуг.
 
-## Библиотеки
+Компания предоставила персональные данные о некоторых клиентах, также информацию о предоставляемых им услугах и тарифах.
+
+Необходимо обучить модель, которая будет выявлять клиентов, планирующих отказаться от услуг связи.
+
+## Стек
+### Библиотеки
 * numpy
 * pandas
-* matplotlib.pyplot
+* matplotlib
 * seaborn
-* catboost.CatBoostClassifier
-* sklearn.linear_model.LogisticRegression
-* sklearn.metrics.recall_score
-* sklearn.metrics.precision_score
-* sklearn.metrics.auc
-* sklearn.metrics.roc_curve
-* sklearn.metrics.roc_auc_score
+
+### Модели
+* CatBoostClassifier
+* LogisticRegression
+
+### Метрики
+* recall_score
+* precision_score
+* auc
+* roc_curve
+* roc_auc_score
 
 ## Общий вывод
+Проведен разверточный анализ данных, выявлены наиболее коррелирущие с целевым признаки.
+
+Обучено несколько моделей с подбором гиперпараметров. Лучше всех себя показала модель на основе CatBoostClassifier (ROC-AUC = 0.905).
+
+Анализ матрицы ошибок  показал, что модель совершает меньше ошибок второго рода (чем первого рода), которые с точки зрения задачи бизнеса являются критическими, ведь ложно предсказать уход клиента не так критично, как совсем не распознать его.
