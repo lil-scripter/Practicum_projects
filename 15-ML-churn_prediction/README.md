@@ -10,22 +10,7 @@
 Необходимо обучить модель, которая будет выявлять клиентов, планирующих отказаться от услуг связи.
 
 ## Стек
-### Библиотеки
-* numpy
-* pandas
-* matplotlib
-* seaborn
-
-### Модели
-* CatBoostClassifier
-* LogisticRegression
-
-### Метрики
-* recall_score
-* precision_score
-* auc
-* roc_curve
-* roc_auc_score
+numpy, pandas, scikit-learn, matplotlib, seaborn, CatBoostClassifier, LogisticRegression
 
 ## Общий вывод
 Проведен разверточный анализ данных, выявлены наиболее коррелирущие с целевым признаки.
