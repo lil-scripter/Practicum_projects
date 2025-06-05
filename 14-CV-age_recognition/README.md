@@ -1,5 +1,5 @@
 # Определение возраста людей по фотографиям
-[HTML]() | [IPYNB]()
+[HTML]() | [IPYNB](https://github.com/lil-scripter/Practicum_projects/blob/7eb33417abb93e165195212244d776d6dfeef0a3/14-CV-age_recognition/14-CV-age_recognition.ipynb)
 
 ## Описание проекта
 
@@ -18,17 +18,7 @@
 Добиться значения MAE на тестовой выборке не больше 8.
 
 ## Стек
-* numpy
-* pandas
-* matplotlib.pyplot
-* seaborn
-* PIL
-* tensorflow.keras
-        * ResNet50
-        * GlobalAveragePooling2D, Dense
-        * Sequential
-        * Adam
-        * ImageDataGenerator
+numpy, pandas, matplotlib, seaborn, keras, ResNet50, GlobalAveragePooling2D, Dense, Sequential, ImageDataGenerator
 
 ## Общий вывод
 
