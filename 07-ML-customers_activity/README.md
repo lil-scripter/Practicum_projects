@@ -1,5 +1,5 @@
 # Предсказание снижения пользовательской активности
-[IPYNB](https://github.com/lil-scripter/practicum_projects/tree/e5a8dfb50c969d8ab4759cc4d6dfe5af978345be/07-ML-customers_activity)
+[IPYNB](https://github.com/lil-scripter/practicum_projects/blob/e98cba4097d6f387a91fe8524e5dd88084969f5a/07-ML-customers_activity/07-ML-customers_activity.ipynb)
 
 ## Описание проекта
 Интернет-магазин продаёт разные товары: для детей, для дома, мелкую бытовую технику, косметику и даже продукты. Отчёт магазина за прошлый период показал, что активность покупателей начала снижаться. Привлекать новых клиентов уже не так эффективно: о магазине и так знает большая часть целевой аудитории.
