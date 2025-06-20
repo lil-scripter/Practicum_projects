@@ -1,5 +1,5 @@
 # Выбор локации для скважины
-[IPYNB](https://github.com/lil-scripter/practicum_projects/tree/e5a8dfb50c969d8ab4759cc4d6dfe5af978345be/9-ML-model_for_mining_enterprise)
+[IPYNB](https://github.com/lil-scripter/practicum_projects/blob/caa6a4f07885bb81045070247a8dd0bcf099212e/9-ML-model_for_mining_enterprise/9-ML-model-for-mining-enterprise.ipynb)
 
 ## Описание проекта
 Добывающей компании нужно помочь с выбором бурения новой скважины. Предоставлены пробы нефти в трёх регионах.
