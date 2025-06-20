@@ -1,0 +1,12 @@
+# practicum projects
+
+Здесь собраны проекты, реализованные в рамках прохождения обучения.
+
+ № | Наименование проекта                                         | Описание                                                     | Стек                                                         |
+---|------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+15|[Предсказание оттока клиентов для телекома](https://github.com/lil-scripter/Practicum_projects/tree/77acbf9ae35e667a69f2065e297434259b2587af/15-ML-churn_prediction) | Детекция клиентов, собирающихся разорвать контракт | numpy, pandas, scikit-learn, matplotlib, seaborn, CatBoostClassifier, LogisticRegression |
+14|[Отпределение возраста по фотографии](https://github.com/lil-scripter/Practicum_projects/tree/77acbf9ae35e667a69f2065e297434259b2587af/14-CV-age_recognition) | Определение возраста людей по фотографии | numpy, pandas, matplotlib, seaborn, PIL, keras, ResNet50, GlobalAveragePooling2D, Dense, Sequential, Adam, ImageDataGenerator
+13|[Анализ текстов](https://github.com/lil-scripter/Practicum_projects/tree/77acbf9ae35e667a69f2065e297434259b2587af/13-NLP-toxic_comments_detection) | Анализ комментариев пользователей на токсичность | pandas, sklearn, numpy, nltk, transformers, tqdm, BERT |
+12|[Прогноз количества заказов для сервиса такси](https://github.com/lil-scripter/Practicum_projects/tree/b950731b874677a10877d3b2bd0ad9018e427139/12-TSA-taxi_orders_prediction) | Прогнозирование количества заказов такси в аэропортах в последующий час для планирования количества доступных автомобилей| pandas, sklearn, numpy, matplotlib, seaborn, shap, tsaplots, seasonal_decompose, RandomForestRegressor, Lasso |
+11|[Определение рыночной стоимости автомобидей](https://github.com/lil-scripter/practicum_projects/tree/6976ced0dc180221207c3881c9bebbecede37345/11-ML-cars_cost_prediction) | Предсказание рыночной стоимости подержанных автомобилей | pandas, sklearn, numpy, matplotlib, seaborn, phik, Ridge, DecisionTreeRegressor, RandomForestRegressor, lightgbm |
+7|[Предсказание снижения пользовательской активности](https://github.com/lil-scripter/practicum_projects/tree/869254c528fb725ce5a5edaf04a51fb1672d3a63/07-ML-customers_activity) | Предсказание снижения пользовательской активности клиентов интернет магазина | numpy, pandas, scikit-learn, matplotlib, seaborn, SVC, KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression |
