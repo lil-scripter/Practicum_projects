@@ -1,5 +1,5 @@
 # Предсказание оттока клиентов для телекома
-[IPYNB](https://github.com/lil-scripter/Practicum_projects/blob/dac0298e2fe8568826dff819bd4c9536866d2994/Telecom/GP_telecom.ipynb)
+[IPYNB](https://github.com/lil-scripter/practicum_projects/tree/e5a8dfb50c969d8ab4759cc4d6dfe5af978345be/15-ML-churn_prediction)
 
 ## Описание проекта
 Оператор связи хочет бороться с оттоком клиентов, предоставляя персональнные условия и промокоды тем, кто планирует разорвать договор оказания услуг.
