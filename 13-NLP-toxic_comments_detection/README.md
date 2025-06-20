@@ -1,5 +1,5 @@
 # Детекция токсичных комментарием
-[IPYNB](https://github.com/lil-scripter/Practicum_projects/blob/847d06351f9db0214f11d5481ea6a4f1490aa23f/13-NLP-toxic_comments_detection/13-NLP-toxic_comments_detection.ipynb)
+[IPYNB](https://github.com/lil-scripter/practicum_projects/tree/e5a8dfb50c969d8ab4759cc4d6dfe5af978345be/13-NLP-toxic_comments_detection)
 
 ## Описание проекта
 
