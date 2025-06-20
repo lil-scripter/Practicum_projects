@@ -1,5 +1,5 @@
 # Прогнозирование заказов такси
-[IPYNB](https://github.com/lil-scripter/practicum_projects/tree/e5a8dfb50c969d8ab4759cc4d6dfe5af978345be/11-ML-cars_cost_prediction)
+[IPYNB](https://github.com/lil-scripter/practicum_projects/blob/980f1d7bcc416403c653ccfb8f2aeb47b3cd32ce/11-ML-cars_cost_prediction/11-ML-cars_cost_prediction.ipynb)
 
 ## Описание проекта
 
