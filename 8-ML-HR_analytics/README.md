@@ -1,5 +1,5 @@
 # Предсказание оттока сотрудников
-[IPYNB](https://github.com/lil-scripter/Practicum_projects/blob/42957e2fb87d0f77bf3f8c53bddf2075981ce8a5/8-ML-HR_analytics/8-ML-HR_analytics.ipynb)
+[IPYNB](https://github.com/lil-scripter/practicum_projects/blob/bd5e74298118f4e41ff8cf820a918a2310c6e6e5/8-ML-HR_analytics/8-ML-HR_analytics.ipynb)
 ## Описание проекта
 Компания предоставила данные с характеристиками сотрудников компании. Среди них — уровень удовлетворённости сотрудника работой в компании.
 
