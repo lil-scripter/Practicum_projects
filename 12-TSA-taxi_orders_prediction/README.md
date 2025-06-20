@@ -1,5 +1,5 @@
 # Прогнозирование заказов такси
-[IPYNB](https://github.com/lil-scripter/practicum_projects/tree/e5a8dfb50c969d8ab4759cc4d6dfe5af978345be/12-TSA-taxi_orders_prediction)
+[IPYNB](https://github.com/lil-scripter/practicum_projects/blob/cb66928d32e84282ed943a4b35458000bb94ef7d/12-TSA-taxi_orders_prediction/12-TSA-taxi_orders_prediction.ipynb)
 
 ## Описание проекта
 
