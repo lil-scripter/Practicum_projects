@@ -1,5 +1,5 @@
 # Определение возраста людей по фотографиям
-[IPYNB](https://github.com/lil-scripter/practicum_projects/tree/e5a8dfb50c969d8ab4759cc4d6dfe5af978345be/14-CV-age_recognition)
+[IPYNB](https://github.com/lil-scripter/practicum_projects/blob/833f630bfc56ca8c888586f6bf94236b44bcc932/14-CV-age_recognition/14-CV-age_recognition.ipynb)
 
 ## Описание проекта
 
